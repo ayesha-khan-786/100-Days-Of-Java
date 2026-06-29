@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-001-blue)
+![Days](https://img.shields.io/badge/Day-002-blue)
 
 
 
@@ -24,10 +24,11 @@ every single day for 100 days.
 
 | Day | Topic | Problem Solved | Status |
 |-----|-------|---------------|--------|
-| 01  |       |               | ⏳     |
+| 01  |  Flowcharts, Operators, Patterns     |           Pattern Que    | ⏳ Done    |
+| 02  |  Arrays | Linear Search, Largest in Array | ⏳ Done    |
 
 ## 🗓️ Start Date: June 28, 2026
 
 ## 📌 Connect With Me
-- GitHub: [Your Username]
-- LinkedIn: [Your LinkedIn]
+- GitHub: ayesha-khan-786
+- LinkedIn: https://linkedin.com/in/ayeshakhan61996
