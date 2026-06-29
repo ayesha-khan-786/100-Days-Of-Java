@@ -21,7 +21,7 @@ public class Q1_Array {
         if(index == -1) {
             System.out.print("Key not found");
         } else {
-            System.out.print("Key is at index : " + index);
+            System.out.print("Key is at index : " + linearSearch(numbers, key));
         }
     }
 }
