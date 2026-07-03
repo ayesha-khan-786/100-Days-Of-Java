@@ -27,7 +27,8 @@ every single day for 100 days.
 | 01  |  Flowcharts, Operators, Patterns     |           Pattern Que    | ⏳ Done    |
 | 02  |  Arrays | Linear Search, Largest in Array | ⏳ Done    |
 | 03  | Arrays , Leet Code | Binary Search, Reverse an Array, Running Sum of 1d Array(#1480) | ⏳ Done    |
-| 04  | Arrays, LeetCode | Pairs, Number of Good Pairs(#1512), Count No of Pairs with diff(#2006)| ⏳ Done    |
+| 04  | Arrays, LeetCode | Pairs, Number of Good Pairs(#1512), Count No of Pairs with diff(#2006) | ⏳ Done    |
+| 05  | Arrays, LeetCode | Print Subarrays, Find Pivot Index(#724), Subarray Sum Equals K(#560), Find Middle Ind in Array(#1991)  | ⏳ Done    |
 
 ## 🗓️ Start Date: June 28, 2026
 
