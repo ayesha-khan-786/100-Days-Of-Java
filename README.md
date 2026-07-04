@@ -30,7 +30,7 @@ every single day for 100 days.
 | 04  | Arrays, LeetCode | Pairs, Number of Good Pairs(#1512), Count No of Pairs with diff(#2006) | ⏳ Done    |
 | 05  | Arrays, LeetCode | Print Subarrays, Find Pivot Index(#724), Subarray Sum Equals K(#560), Find Middle Ind in Array(#1991)  | ⏳ Done    |
 | 06  | Arrays, LeetCode | Max Subarray Sum using Brute force, Prefix & Kadane's Algorithm, Maximum Subarray(#53) | ⏳ Done    |
-| 06  | Arrays, LeetCode | Trapping Rainwater, Trapping Rainwater(#42) | ⏳ Done    |
+| 06  | Arrays, LeetCode | Trapping Rainwater,Buy & Sell Stock Trapping Rainwater(#42), Buy & Sell Stock(#121) | ⏳ Done    |
 
 ## 🗓️ Start Date: June 28, 2026
 
