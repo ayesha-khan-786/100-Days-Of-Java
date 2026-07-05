@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-007-blue)
+![Days](https://img.shields.io/badge/Day-008-blue)
 
 
 
@@ -37,3 +37,4 @@ every single day for 100 days.
 ## 📌 Connect With Me
 - GitHub: ayesha-khan-786
 - LinkedIn: https://linkedin.com/in/ayeshakhan61996
+- LeetCode: https://leetcode.com/u/ayesha_khan86/
