@@ -31,7 +31,7 @@ every single day for 100 days.
 | 05  | Arrays, LeetCode | Print Subarrays, Find Pivot Index(#724), Subarray Sum Equals K(#560), Find Middle Ind in Array(#1991)  | ⏳ Done    |
 | 06  | Arrays, LeetCode | Max Subarray Sum using Brute force, Prefix & Kadane's Algorithm, Maximum Subarray(#53) | ⏳ Done    |
 | 07  | Arrays, LeetCode | Trapping Rainwater,Buy & Sell Stock Trapping Rainwater(#42), Buy & Sell Stock I(#121) & II(#122)  | ⏳ Done    |
-| 08  | LeetCode | Contains Duplicate(#217), Search in Rotated Sorted Array(#33)
+| 08  | LeetCode | Contains Duplicate(#217), Search in Rotated Sorted Array(#33), 3 Sum(#15) | ⏳ Done    |
 
 ## 🗓️ Start Date: June 28, 2026
 
