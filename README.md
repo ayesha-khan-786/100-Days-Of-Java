@@ -32,7 +32,7 @@ every single day for 100 days.
 | 06  | Arrays, LeetCode | Max Subarray Sum using Brute force, Prefix & Kadane's Algorithm, Maximum Subarray(#53) | ⏳ Done    |
 | 07  | Arrays, LeetCode | Trapping Rainwater,Buy & Sell Stock Trapping Rainwater(#42), Buy & Sell Stock I(#121) & II(#122)  | ⏳ Done    |
 | 08  | LeetCode | Contains Duplicate(#217), Search in Rotated Sorted Array(#33), 3 Sum(#15) | ⏳ Done    |
-| 09  | Sorting, LeetCode | Bubble & Selection Sort, Majority Element(#169)
+| 09  | Sorting, LeetCode | Bubble & Selection Sort, Majority Element(#169) | ⏳ Done    |
 
 ## 🗓️ Start Date: June 28, 2026
 
