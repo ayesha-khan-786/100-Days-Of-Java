@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-010-blue)
+![Days](https://img.shields.io/badge/Day-011-blue)
 
 
 
@@ -33,6 +33,8 @@ every single day for 100 days.
 | 07  | Arrays, LeetCode | Trapping Rainwater,Buy & Sell Stock Trapping Rainwater(#42), Buy & Sell Stock I(#121) & II(#122)  | ⏳ Done    |
 | 08  | LeetCode | Contains Duplicate(#217), Search in Rotated Sorted Array(#33), 3 Sum(#15) | ⏳ Done    |
 | 09  | Sorting, LeetCode | Bubble & Selection Sort, Majority Element(#169) | ⏳ Done    |
+| 10  | Sorting, LeetCode | Insertion Sort, Concatenate Non-Zero Digits& Mul by Sum I | ⏳ Done |
+| 11  | 
 
 ## 🗓️ Start Date: June 28, 2026
 
