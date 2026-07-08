@@ -34,7 +34,7 @@ every single day for 100 days.
 | 08  | LeetCode | Contains Duplicate(#217), Search in Rotated Sorted Array(#33), 3 Sum(#15) | ⏳ Done    |
 | 09  | Sorting, LeetCode | Bubble & Selection Sort, Majority Element(#169) | ⏳ Done    |
 | 10  | Sorting, LeetCode | Insertion Sort, Concatenate Non-Zero Digits& Mul by Sum I | ⏳ Done |
-| 11  | 
+| 11  | Sorting, LeetCode | Count Sorting, Single Number(#136), Palindrome Number(#09) | ⏳ Done |
 
 ## 🗓️ Start Date: June 28, 2026
 
