@@ -37,6 +37,7 @@ every single day for 100 days.
 | 11  | Sorting, LeetCode | Count Sorting, Single Number(#136)| ⏳ Done |
 | 12  | LeetCode |  Palindrome Number(#09) | ⏳ Done |
 | 13  | LeetCode |  3 Sum(#15) | ⏳ Done |
+| 14  | 2D Arrays, LeetCode | Search a 2D Matrix(#74)
 
 ## 🗓️ Start Date: June 28, 2026
 
