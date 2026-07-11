@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-013-blue)
+![Days](https://img.shields.io/badge/Day-014-blue)
 
 
 
@@ -36,7 +36,7 @@ every single day for 100 days.
 | 10  | Sorting, LeetCode | Insertion Sort, Concatenate Non-Zero Digits& Mul by Sum I | ⏳ Done |
 | 11  | Sorting, LeetCode | Count Sorting, Single Number(#136)| ⏳ Done |
 | 12  | LeetCode |  Palindrome Number(#09) | ⏳ Done |
-| 12  | LeetCode |  3 Sum(#15) | ⏳ Done |
+| 13  | LeetCode |  3 Sum(#15) | ⏳ Done |
 
 ## 🗓️ Start Date: June 28, 2026
 
