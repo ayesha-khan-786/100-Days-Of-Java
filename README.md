@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-016-blue)
+![Days](https://img.shields.io/badge/Day-017-blue)
 
 
 
@@ -39,7 +39,8 @@ every single day for 100 days.
 | 13  | LeetCode |  3 Sum(#15) | ⏳ Done |
 | 14  | 2D Arrays, LeetCode | Search a 2D Matrix(#74), Find the Duplicate No(#287) | ⏳ Done |
 | 15  | 2D Arrays, LeetCode | Spiral Matrix, Rank Transform of Array(#1331), Spiral Matrix(#54) | ⏳ Done |
-| 16  | LeetCode |Sequential Digits(#1291)
+| 16  | LeetCode |Sequential Digits(#1291) | ⏳ Done |
+| 17  | 2D Arrays, LeetCode | Diagonal Sum, Subarray Sum Equal to K (#560) | ⏳ Done |
 
 ## 🗓️ Start Date: June 28, 2026
 
