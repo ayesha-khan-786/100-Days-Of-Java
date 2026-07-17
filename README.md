@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-019-blue)
+![Days](https://img.shields.io/badge/Day-020-blue)
 
 
 
@@ -43,6 +43,7 @@ every single day for 100 days.
 | 17  | 2D Arrays, LeetCode | Diagonal Sum, Subarray Sum Equal to K (#560) | ⏳ Done |
 | 18  | LeetCode | Matrix Diagonal SUm (#1572), Pow(x,n) (#50)  | ⏳ Done |
 | 19  | 2D Array, LeetCode | Search in Sorted Matrix, Print number of 7's in 2D Array, Finding Missing & Repeated val(#2965) | ⏳ Done |
+| 20  | LeetCode | Sort Colors (#75)
 
 ## 🗓️ Start Date: June 28, 2026
 
