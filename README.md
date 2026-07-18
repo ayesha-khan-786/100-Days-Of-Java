@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-020-blue)
+![Days](https://img.shields.io/badge/Day-021-blue)
 
 
 
@@ -16,7 +16,7 @@ Revise Java Core concepts and solve DSA problems
 every single day for 100 days.
 
 ## 👤 About Me
-- 🎓 BBA (CA) 2nd Year Student
+- 🎓 BBA (CA) 3rd Year Student
 - 💡 Learning: Java + DSA
 - 🔍 Looking for: Internship 2026
 
@@ -44,6 +44,7 @@ every single day for 100 days.
 | 18  | LeetCode | Matrix Diagonal SUm (#1572), Pow(x,n) (#50)  | ⏳ Done |
 | 19  | 2D Array, LeetCode | Search in Sorted Matrix, Print number of 7's in 2D Array, Finding Missing & Repeated val(#2965) | ⏳ Done |
 | 20  | 2D Arrays, LeetCode | Sort Colors (#75), Print sum of numbers in second row, Transpose Matrix | ⏳ Done |
+| 21  | LeetCode | Find GCD of Array (#1979)
 
 ## 🗓️ Start Date: June 28, 2026
 
