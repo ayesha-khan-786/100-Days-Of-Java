@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-022-blue)
+![Days](https://img.shields.io/badge/Day-023-blue)
 
 
 
@@ -45,7 +45,7 @@ every single day for 100 days.
 | 19  | 2D Array, LeetCode | Search in Sorted Matrix, Print number of 7's in 2D Array, Finding Missing & Repeated val(#2965) | ⏳ Done |
 | 20  | 2D Arrays, LeetCode | Sort Colors (#75), Print sum of numbers in second row, Transpose Matrix | ⏳ Done |
 | 21  | LeetCode | Find GCD of Array (#1979) | ⏳ Done |
-| 22  | LeetCode | Container with Most Water (#11)
+| 22  | LeetCode | Container with Most Water (#11) | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
