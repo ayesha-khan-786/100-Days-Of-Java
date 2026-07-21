@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-023-blue)
+![Days](https://img.shields.io/badge/Day-024-blue)
 
 
 
@@ -46,6 +46,8 @@ every single day for 100 days.
 | 20  | 2D Arrays, LeetCode | Sort Colors (#75), Print sum of numbers in second row, Transpose Matrix | ⏳ Done |
 | 21  | LeetCode | Find GCD of Array (#1979) | ⏳ Done |
 | 22  | LeetCode | Container with Most Water (#11) | ⏳ Done |
+| 23  | LeetCode | Valid Palindrome (#125)
+| 24  |
 
 
 ## 🗓️ Start Date: June 28, 2026
