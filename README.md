@@ -46,8 +46,8 @@ every single day for 100 days.
 | 20  | 2D Arrays, LeetCode | Sort Colors (#75), Print sum of numbers in second row, Transpose Matrix | ⏳ Done |
 | 21  | LeetCode | Find GCD of Array (#1979) | ⏳ Done |
 | 22  | LeetCode | Container with Most Water (#11) | ⏳ Done |
-| 23  | LeetCode | Valid Palindrome (#125)
-| 24  |
+| 23  | LeetCode | Valid Palindrome (#125) | ⏳ Done |
+| 24  | LeetCode | Fizz Buzz (#412)  | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
