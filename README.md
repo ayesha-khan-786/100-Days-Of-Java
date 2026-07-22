@@ -48,6 +48,7 @@ every single day for 100 days.
 | 22  | LeetCode | Container with Most Water (#11) | ⏳ Done |
 | 23  | LeetCode | Valid Palindrome (#125) | ⏳ Done |
 | 24  | LeetCode | Fizz Buzz (#412)  | ⏳ Done |
+| 25  | LeetCode | Max Subarray Product (#152)  | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
