@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-025-blue)
+![Days](https://img.shields.io/badge/Day-026-blue)
 
 
 
@@ -49,6 +49,8 @@ every single day for 100 days.
 | 23  | LeetCode | Valid Palindrome (#125) | ⏳ Done |
 | 24  | LeetCode | Fizz Buzz (#412)  | ⏳ Done |
 | 25  | LeetCode | Max Subarray Product (#152)  | ⏳ Done |
+| 25  | 2D Array | Check String is Palindrome  | ⏳ Done |
+
 
 
 ## 🗓️ Start Date: June 28, 2026
