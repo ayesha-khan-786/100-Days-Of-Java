@@ -51,7 +51,7 @@ every single day for 100 days.
 | 25  | LeetCode | Max Subarray Product (#152)  | ⏳ Done |
 | 26  | 2D Array | Check String is Palindrome  | ⏳ Done |
 | 27  | String | Shortest Path   | ⏳ Done |
-| 28  | String | Print largest string (lexicographic)
+| 28  | String | Print largest string (lexicographic) | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
