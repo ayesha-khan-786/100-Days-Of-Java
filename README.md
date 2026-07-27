@@ -52,7 +52,7 @@ every single day for 100 days.
 | 26  | 2D Array | Check String is Palindrome  | ⏳ Done |
 | 27  | String | Shortest Path   | ⏳ Done |
 | 28  | String | Print largest string (lexicographic) | ⏳ Done |
-| 29  | String |  Convert first letter in uppercase | ⏳ Done |
+| 29  | String |  Convert first letter in uppercase, String Compression | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
