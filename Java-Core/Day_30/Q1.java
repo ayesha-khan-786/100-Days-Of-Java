@@ -1,4 +1,4 @@
-// Anagrams
+// Day 30 - Anagrams
 import java.util.*;
 
 public class Q1 {
