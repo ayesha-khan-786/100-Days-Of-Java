@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-030-blue)
+![Days](https://img.shields.io/badge/Day-031-blue)
 
 
 
@@ -54,6 +54,7 @@ every single day for 100 days.
 | 28  | String | Print largest string (lexicographic) | ⏳ Done |
 | 29  | String |  Convert first letter in uppercase, String Compression | ⏳ Done |
 | 30  | String | Anagrams | ⏳ Done |
+| 31  |
 
 
 ## 🗓️ Start Date: June 28, 2026
