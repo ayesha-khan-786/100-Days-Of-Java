@@ -54,7 +54,7 @@ every single day for 100 days.
 | 28  | String | Print largest string (lexicographic) | ⏳ Done |
 | 29  | String |  Convert first letter in uppercase, String Compression | ⏳ Done |
 | 30  | String | Anagrams | ⏳ Done |
-| 31  |
+| 31  | LeetCode, String | Valid Anagrams (#242), Count no. of vowels | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
