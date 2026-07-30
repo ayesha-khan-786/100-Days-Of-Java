@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-031-blue)
+![Days](https://img.shields.io/badge/Day-032-blue)
 
 
 
@@ -55,6 +55,7 @@ every single day for 100 days.
 | 29  | String |  Convert first letter in uppercase, String Compression | ⏳ Done |
 | 30  | String | Anagrams | ⏳ Done |
 | 31  | LeetCode, String | Valid Anagrams (#242), Count no. of vowels | ⏳ Done |
+| 32  | LeetCode | Reverse a words in a String (#151) | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
