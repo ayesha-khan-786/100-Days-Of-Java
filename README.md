@@ -56,6 +56,7 @@ every single day for 100 days.
 | 30  | String | Anagrams | ⏳ Done |
 | 31  | LeetCode, String | Valid Anagrams (#242), Count no. of vowels | ⏳ Done |
 | 32  | LeetCode | Reverse a words in a String (#151) | ⏳ Done |
+| 33  | LeetCode | Remove all occurance of substring (#1910) | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
