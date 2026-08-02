@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-034-blue)
+![Days](https://img.shields.io/badge/Day-035-blue)
 
 
 
@@ -58,6 +58,7 @@ every single day for 100 days.
 | 32  | LeetCode | Reverse a words in a String (#151) | ⏳ Done |
 | 33  | LeetCode | Remove all occurance of substring (#1910) | ⏳ Done |
 | 34  | LeetCode | String Compression (#443) | ⏳ Done |
+| 35  | LeetCode | Longest Common Prefix (#14) | ⏳ Done |
 
 
 ## 🗓️ Start Date: June 28, 2026
