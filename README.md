@@ -13,7 +13,7 @@
 
 ## 🎯 Goal
 Revise Java Core concepts and solve DSA problems 
-every single day for 100 days.
+every single day.
 
 ## 👤 About Me
 - 🎓 BBA (CA) 3rd Year Student
@@ -22,7 +22,7 @@ every single day for 100 days.
 
 ## 📅 Progress Tracker
 
-| Day | Topic | Problem Solved | Status |
+| Que | Topic | Problem Solved | Status |
 |-----|-------|---------------|--------|
 | 01  |  Flowcharts, Operators, Patterns     |           Pattern Que    | ⏳ Done    |
 | 02  |  Arrays | Linear Search, Largest in Array | ⏳ Done    |
