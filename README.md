@@ -1,4 +1,4 @@
-# ☕ 100 Days Of Java
+# ☕  Java Coding
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-![Days](https://img.shields.io/badge/Day-035-blue)
+![Questions](https://img.shields.io/badge/Day-035-blue)
 
 
 
